@@ -49,8 +49,7 @@ let string = `你好,我是前端新人
     transform:translateX(-50%);
     border-radius:50%;
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 100%);
-}
-`
+}`
 let string2 = ''
 
 let step = () => {
